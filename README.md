@@ -1,22 +1,57 @@
-<h1 align="center">Hi 👋, I'm Arslan Anwarul</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Project Overview
 
-- 🔭 I’m currently working on **clone drive upload feature**
+This README file provides an overview of the projects in the repository.
 
-- 🌱 I’m currently learning **MERN**
+## Projects
 
-- 💬 Ask me about **react**
+1. **tic-tak-toe**  
+   - **Description**: A simple tic-tac-toe game implemented using HTML, CSS, and JavaScript.  
+   - **Tech Stack**: CSS (55.5%), JavaScript (32%), HTML (12.5%)  
+   - **Repository Link**: [tic-tak-toe](https://github.com/GOD694/tic-tak-toe)  
+   - **Code Location**: Main game logic stored in `script.js`.  
 
-- 📫 How to reach me **arslananwarul122@gmail.com**
+2. **Drag-and-Drop-elem**  
+   - **Description**: A drag-and-drop interface allowing users to interact with elements on a webpage.  
+   - **Tech Stack**: HTML (100%)  
+   - **Repository Link**: [Drag-and-Drop-elem](https://github.com/GOD694/Drag-and-Drop-elem)  
+   - **Code Location**: Functionality implemented in `index.html`.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arslan anwrul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslan anwrul" height="30" width="40" /></a>
-<a href="https://instagram.com/sassy_itachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sassy_itachi" height="30" width="40" /></a>
-</p>
+3. **DSA-Problems**  
+   - **Description**: A collection of Data Structures and Algorithms problems with implemented solutions.  
+   - **Tech Stack**: Various programming languages, primarily JavaScript.  
+   - **Repository Link**: [DSA-Problems](https://github.com/GOD694/DSA-Problems)  
+   - **Code Location**: Solutions located in respective directories for each problem.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+4. **obsyclone**  
+   - **Description**: A clone of the Obsidian interface with basic functionalities.  
+   - **Tech Stack**: CSS (54.3%), HTML (37.2%), JavaScript (8.5%)  
+   - **Repository Link**: [obsyclone](https://github.com/GOD694/obsyclone)  
+   - **Code Location**: Main styles in `style.css` and scripts in `app.js`.  
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/arslam"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="arslam" /></a></p><br><br>
+5. **landing-page**  
+   - **Description**: A responsive landing page with various sections and features.  
+   - **Tech Stack**: HTML (57.2%), CSS (27.1%), JavaScript (15.7%)  
+   - **Repository Link**: [landing-page](https://github.com/GOD694/landing-page)  
+   - **Code Location**: Structure in `index.html` and styles in `styles.css`.  
+
+6. **FANTA-WEBSITE**  
+   - **Description**: A marketing website for Fanta with interactive features.  
+   - **Tech Stack**: CSS (44.3%), HTML (35.2%), JavaScript (20.5%)  
+   - **Repository Link**: [FANTA-WEBSITE](https://github.com/GOD694/FANTA-WEBSITE)  
+   - **Code Location**: Main content in `index.html` and styles in `style.css`.  
+
+7. **todo.github.io**  
+   - **Description**: A to-do list application hosted on GitHub Pages.  
+   - **Tech Stack**: JavaScript (54.6%), CSS (27.7%), HTML (17.7%)  
+   - **Repository Link**: [todo.github.io](https://github.com/GOD694/todo.github.io)  
+   - **Code Location**: Logic in `script.js` and layout in `index.html`.  
+
+8. **Bg_generator**  
+   - **Description**: A background generator tool for creating custom backgrounds.  
+   - **Tech Stack**: CSS (54.7%), JavaScript (27.7%), HTML (17.6%)  
+   - **Repository Link**: [Bg_generator](https://github.com/GOD694/Bg_generator)  
+   - **Code Location**: User interface in `index.html` and styles in `style.css`.
+
+---  
+
+*This README was generated on 2026-03-03 at 15:58:51 UTC.*
