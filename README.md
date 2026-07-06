@@ -47,7 +47,7 @@ A highly motivated and detail-oriented computer science graduate from B.Tech (20
 
 ### 1. 🔐 Authentication System
 **Repository:** [GOD694/auth-system](https://github.com/GOD694/auth-system)  
-**Live Demo:** [View Project](https://god694-auth-system.vercel.app)  
+**Live Demo:** [View Project](https://authentication-frontend-iota-two.vercel.app/)  
 **Description:** Comprehensive authentication system with JWT tokens, refresh token mechanism, role-based access control, email verification, and secure password reset functionality. Includes both frontend and backend implementation.  
 **Tech Stack:** 
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -63,7 +63,7 @@ A highly motivated and detail-oriented computer science graduate from B.Tech (20
 
 ### 2. 🤖 Throttle AI
 **Repository:** [GOD694/throttle-ai](https://github.com/GOD694/throttle-ai)  
-**Live Demo:** [Try AI Tool](https://god694-throttle-ai.vercel.app)  
+**Live Demo:** [Try AI Tool](https://throttle-ai-two.vercel.app/)  
 **Description:** Advanced rate-limiting and request throttling solution for AI API calls with intelligent queuing, backoff strategies, and real-time monitoring dashboard. Optimizes API usage and prevents rate limit violations.  
 **Tech Stack:**
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -79,7 +79,7 @@ A highly motivated and detail-oriented computer science graduate from B.Tech (20
 
 ### 3. 💪 Gym Website
 **Repository:** [GOD694/gym-website](https://github.com/GOD694/gym-website)  
-**Live Demo:** [Visit Gym Site](https://god694.github.io/gym-website)  
+**Live Demo:** [Visit Gym Site](https://gym-website-frontend-roan.vercel.app/)  
 **Description:** Modern, fully responsive gym website featuring membership plans, class schedules, trainer profiles, booking system, and testimonials. Built with modern design principles and smooth animations.  
 **Tech Stack:**
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -95,7 +95,7 @@ A highly motivated and detail-oriented computer science graduate from B.Tech (20
 
 ### 4. 🎯 Personal Portfolio
 **Repository:** [GOD694/portfolio](https://github.com/GOD694/portfolio)  
-**Live Demo:** [View Portfolio](https://arslan-anwarul.vercel.app)  
+**Live Demo:** [View Portfolio](https://arslan-protfolio.vercel.app/)  
 **Description:** Professional personal portfolio website showcasing projects, skills, experience, and contact information. Features smooth scrolling, project filtering, dark mode, and responsive design across all devices.  
 **Tech Stack:**
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
