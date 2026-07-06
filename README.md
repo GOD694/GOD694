@@ -10,14 +10,13 @@
 📧 **Email:** arslananwarul122@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/arslan-anwarul](https://linkedin.com/in/arslan%20anwrul)  
 📸 **Instagram:** [@sassy_itachi](https://instagram.com/sassy_itachi)  
-☕ **Support Me:** [Ko-fi](https://ko-fi.com/arslam)
+
 
 ---
 
 ## 🎯 PROFESSIONAL SUMMARY
 
-Passionate and dedicated frontend developer with expertise in **React.js** and **MERN Stack** technologies. Specialized in building responsive, user-friendly web applications with modern JavaScript frameworks. Currently focused on developing innovative cloud-based solutions with a strong foundation in full-stack development.
-
+A highly motivated and detail-oriented computer science graduate from B.Tech (2026), with a keen interest in working in an entry-level software engineering or full stack developer position. Strong expertise in the MERN stack, Java, Python, SQL, REST APIs, and Git. Passionate about developing scalable and secure web applications.
 ---
 
 ## 💻 TECHNICAL SKILLS
@@ -45,7 +44,7 @@ Passionate and dedicated frontend developer with expertise in **React.js** and *
 
 ## 🚀 PROJECTS & PORTFOLIO
 
-### 1. 🎮 Tic Tac Toe Game
+### 1. Authentication System
 **Repository:** [GOD694/tic-tak-toe](https://github.com/GOD694/tic-tak-toe)  
 **Live Demo:** [Play Game](https://god694.github.io/tic-tak-toe)  
 **Description:** Interactive Tic Tac Toe game with responsive design and smooth gameplay mechanics.  
