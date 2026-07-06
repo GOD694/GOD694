@@ -16,7 +16,8 @@
 
 ## 🎯 PROFESSIONAL SUMMARY
 
-A highly motivated and detail-oriented computer science graduate from B.Tech (2026), with a keen interest in working in an entry-level software engineering or full stack developer position. Strong expertise in the MERN stack, Java, Python, SQL, REST APIs, and Git. Passionate about developing scalable and secure web applications.
+A highly motivated and detail-oriented computer science graduate from B.Tech (2026), with a keen interest in working in an entry-level software engineering or full stack developer position. Strong expertise in building scalable full-stack applications using MERN stack with focus on performance optimization and user experience.
+
 ---
 
 ## 💻 TECHNICAL SKILLS
@@ -44,33 +45,87 @@ A highly motivated and detail-oriented computer science graduate from B.Tech (20
 
 ## 🚀 PROJECTS & PORTFOLIO
 
-### 1. Authentication System
-**Repository:** [GOD694/tic-tak-toe](https://github.com/GOD694/tic-tak-toe)  
-**Live Demo:** [Play Game](https://god694.github.io/tic-tak-toe)  
-**Description:** Interactive Tic Tac Toe game with responsive design and smooth gameplay mechanics.  
+### 1. 🔐 Authentication System
+**Repository:** [GOD694/auth-system](https://github.com/GOD694/auth-system)  
+**Live Demo:** [View Project](https://god694-auth-system.vercel.app)  
+**Description:** Comprehensive authentication system with JWT tokens, refresh token mechanism, role-based access control, email verification, and secure password reset functionality. Includes both frontend and backend implementation.  
 **Tech Stack:** 
-- ![CSS](https://img.shields.io/badge/CSS3-55.5%25-1572B6?style=flat-square&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-32%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![HTML](https://img.shields.io/badge/HTML5-12.5%25-E34C26?style=flat-square&logo=html5)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+- ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens)
 
-**Code Location:** [View Source](https://github.com/GOD694/tic-tak-toe/tree/main)
+**Features:** User registration, login, JWT authentication, email verification, password reset, role-based access control
+
+**Code Location:** [View Source](https://github.com/GOD694/auth-system/tree/main)
 
 ---
 
-### 2. 📋 To-Do Application
-**Repository:** [GOD694/todo.github.io](https://github.com/GOD694/todo.github.io)  
-**Live Demo:** [Open App](https://god694.github.io/todo.github.io)  
-**Description:** Feature-rich to-do application with local storage integration, task management, and clean UI.  
+### 2. 🤖 Throttle AI
+**Repository:** [GOD694/throttle-ai](https://github.com/GOD694/throttle-ai)  
+**Live Demo:** [Try AI Tool](https://god694-throttle-ai.vercel.app)  
+**Description:** Advanced rate-limiting and request throttling solution for AI API calls with intelligent queuing, backoff strategies, and real-time monitoring dashboard. Optimizes API usage and prevents rate limit violations.  
 **Tech Stack:**
-- ![JavaScript](https://img.shields.io/badge/JavaScript-54.6%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![CSS](https://img.shields.io/badge/CSS3-27.7%25-1572B6?style=flat-square&logo=css3)
-- ![HTML](https://img.shields.io/badge/HTML5-17.7%25-E34C26?style=flat-square&logo=html5)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Code Location:** [View Source](https://github.com/GOD694/todo.github.io/tree/main)
+**Features:** Rate limiting, request queuing, backoff strategies, monitoring dashboard, analytics
+
+**Code Location:** [View Source](https://github.com/GOD694/throttle-ai/tree/main)
 
 ---
 
-### 3. 🌈 Background Generator
+### 3. 💪 Gym Website
+**Repository:** [GOD694/gym-website](https://github.com/GOD694/gym-website)  
+**Live Demo:** [Visit Gym Site](https://god694.github.io/gym-website)  
+**Description:** Modern, fully responsive gym website featuring membership plans, class schedules, trainer profiles, booking system, and testimonials. Built with modern design principles and smooth animations.  
+**Tech Stack:**
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+
+**Features:** Membership management, class scheduling, trainer directory, booking system, payment integration
+
+**Code Location:** [View Source](https://github.com/GOD694/gym-website/tree/main)
+
+---
+
+### 4. 🎯 Personal Portfolio
+**Repository:** [GOD694/portfolio](https://github.com/GOD694/portfolio)  
+**Live Demo:** [View Portfolio](https://arslan-anwarul.vercel.app)  
+**Description:** Professional personal portfolio website showcasing projects, skills, experience, and contact information. Features smooth scrolling, project filtering, dark mode, and responsive design across all devices.  
+**Tech Stack:**
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Features:** Project showcase, skill display, smooth animations, dark mode, contact form, responsive design
+
+**Code Location:** [View Source](https://github.com/GOD694/portfolio/tree/main)
+
+---
+
+### 5. 📝 Obsidian Clone
+**Repository:** [GOD694/obsyclone](https://github.com/GOD694/obsyclone)  
+**Live Demo:** [Open App](https://god694.github.io/obsyclone)  
+**Description:** Note-taking application inspired by Obsidian with markdown support, local storage, and knowledge graph visualization. Allows users to create, edit, and organize notes with seamless cross-linking capabilities.  
+**Tech Stack:**
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- ![CSS](https://img.shields.io/badge/CSS3-54.3%25-1572B6?style=flat-square&logo=css3)
+- ![HTML](https://img.shields.io/badge/HTML5-37.2%25-E34C26?style=flat-square&logo=html5)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-8.5%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Features:** Markdown support, local storage, note linking, knowledge graph, search functionality, dark mode
+
+**Code Location:** [View Source](https://github.com/GOD694/obsyclone/tree/main)
+
+---
+
+### 6. 🌈 Background Generator
 **Repository:** [GOD694/Bg_generator](https://github.com/GOD694/Bg_generator)  
 **Live Demo:** [Generate Colors](https://god694.github.io/Bg_generator)  
 **Description:** Dynamic background color generator with multiple color modes and CSS output.  
@@ -83,53 +138,16 @@ A highly motivated and detail-oriented computer science graduate from B.Tech (20
 
 ---
 
-### 4. 🎯 Landing Page
-**Repository:** [GOD694/landing-page](https://github.com/GOD694/landing-page)  
-**Live Demo:** [View Page](https://god694.github.io/landing-page)  
-**Description:** Professional landing page with modern design, smooth animations, and mobile responsiveness.  
+### 7. 📋 To-Do Application
+**Repository:** [GOD694/todo.github.io](https://github.com/GOD694/todo.github.io)  
+**Live Demo:** [Open App](https://god694.github.io/todo.github.io)  
+**Description:** Feature-rich to-do application with local storage integration, task management, and clean UI.  
 **Tech Stack:**
-- ![HTML](https://img.shields.io/badge/HTML5-57.2%25-E34C26?style=flat-square&logo=html5)
-- ![CSS](https://img.shields.io/badge/CSS3-27.1%25-1572B6?style=flat-square&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-15.7%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-54.6%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![CSS](https://img.shields.io/badge/CSS3-27.7%25-1572B6?style=flat-square&logo=css3)
+- ![HTML](https://img.shields.io/badge/HTML5-17.7%25-E34C26?style=flat-square&logo=html5)
 
-**Code Location:** [View Source](https://github.com/GOD694/landing-page/tree/main)
-
----
-
-### 5. 🍹 Fanta Website Clone
-**Repository:** [GOD694/FANTA-WEBSITE](https://github.com/GOD694/FANTA-WEBSITE)  
-**Live Demo:** [View Website](https://god694.github.io/FANTA-WEBSITE)  
-**Description:** Brand website clone featuring product showcase, animations, and interactive elements.  
-**Tech Stack:**
-- ![CSS](https://img.shields.io/badge/CSS3-44.3%25-1572B6?style=flat-square&logo=css3)
-- ![HTML](https://img.shields.io/badge/HTML5-35.2%25-E34C26?style=flat-square&logo=html5)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-20.5%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Code Location:** [View Source](https://github.com/GOD694/FANTA-WEBSITE/tree/main)
-
----
-
-### 6. 📝 Obsidian Clone
-**Repository:** [GOD694/obsyclone](https://github.com/GOD694/obsyclone)  
-**Live Demo:** [Open App](https://god694.github.io/obsyclone)  
-**Description:** Note-taking application inspired by Obsidian with markdown support and local storage.  
-**Tech Stack:**
-- ![CSS](https://img.shields.io/badge/CSS3-54.3%25-1572B6?style=flat-square&logo=css3)
-- ![HTML](https://img.shields.io/badge/HTML5-37.2%25-E34C26?style=flat-square&logo=html5)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-8.5%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Code Location:** [View Source](https://github.com/GOD694/obsyclone/tree/main)
-
----
-
-### 7. 🎨 Drag and Drop Elements
-**Repository:** [GOD694/Drag-and-Drop-elem](https://github.com/GOD694/Drag-and-Drop-elem)  
-**Live Demo:** [Try It](https://god694.github.io/Drag-and-Drop-elem)  
-**Description:** Interactive drag-and-drop interface demonstrating HTML5 drag API implementation.  
-**Tech Stack:**
-- ![HTML](https://img.shields.io/badge/HTML5-100%25-E34C26?style=flat-square&logo=html5)
-
-**Code Location:** [View Source](https://github.com/GOD694/Drag-and-Drop-elem/tree/main)
+**Code Location:** [View Source](https://github.com/GOD694/todo.github.io/tree/main)
 
 ---
 
@@ -144,32 +162,36 @@ A highly motivated and detail-oriented computer science graduate from B.Tech (20
 
 ## 🔭 CURRENT PROJECTS
 
-### Clone Drive Upload Feature
-Currently developing an advanced file upload system with cloud synchronization capabilities, similar to Google Drive. Features include real-time upload tracking, file organization, and seamless cloud integration.
+### Advanced Full-Stack Applications
+Currently developing enterprise-level applications focusing on scalability, performance optimization, and cloud deployment. Building microservices architectures and exploring serverless solutions.
 
 ---
 
 ## 📚 LEARNING & DEVELOPMENT
 
-- 🌱 **Currently Learning:** MERN Stack (MongoDB, Express, React, Node.js)
-- 💬 **Core Expertise:** React.js, Vanilla JavaScript
-- 🎓 **Focus Areas:** Full-stack development, Cloud computing, Scalable web applications
+- 🌱 **Currently Learning:** MERN Stack (MongoDB, Express, React, Node.js), Cloud Architecture
+- 💬 **Core Expertise:** React.js, Vanilla JavaScript, Full-Stack Development
+- 🎓 **Focus Areas:** Scalable web applications, Cloud computing, System design, Performance optimization
 
 ---
 
 ## 🏆 KEY COMPETENCIES
 
+✅ Full-Stack Web Application Development  
 ✅ Frontend Development & UI/UX Implementation  
 ✅ Responsive Web Design & Mobile-First Approach  
 ✅ JavaScript (Vanilla & Advanced)  
+✅ React.js & Component Architecture  
+✅ Node.js & Express Backend Development  
 ✅ HTML5 & CSS3 Mastery  
 ✅ DOM Manipulation & Event Handling  
-✅ Full-Stack Web Application Development  
 ✅ RESTful API Design & Integration  
-✅ Database Design & Management  
-✅ Cloud Technologies (AWS)  
-✅ Version Control (Git)  
+✅ Database Design & Management (MongoDB, MySQL)  
+✅ Authentication & Authorization Systems  
+✅ Cloud Technologies (AWS, Vercel)  
+✅ Version Control (Git & GitHub)  
 ✅ Problem Solving & Debugging  
+✅ Performance Optimization  
 
 ---
 
@@ -207,6 +229,6 @@ If you appreciate my work, consider supporting me:
 
 ---
 
-**Last Updated:** March 3, 2026
+**Last Updated:** July 6, 2026
 
 </div>
